@@ -1,0 +1,88 @@
+.logo{
+ display:flex ;
+ justify-content: space-between;
+ padding: 10%;
+}
+.seen{
+    font-size: 30px;
+    text-align: center;
+}
+.button{
+    margin-top: 15%;
+}
+.tab{
+    margin-top: 15%;
+}
+.man{
+    display: flex;
+    justify-content: space-between;
+}
+.channel{
+    text-align: center;
+    margin-right: 15%;
+    margin-top: 12%;
+}
+.right{
+    margin-left: 19%;
+}
+.size{
+    font-size: 50px;
+}
+.print{
+    font-size: 30px;
+}
+.message{
+    display: flex;
+    justify-content: space-between;
+}
+.again{
+    margin-left: 15%;
+    margin-top: 9%;
+    text-align: center;
+}
+.write{
+    font-size: 50px;
+}
+.written{
+    font-size: 35px;
+}
+.side{
+    margin-right: 8%;
+}
+.hola{
+    display: flex;
+    justify-content: space-between;
+}
+.bang{
+    margin-left: 15%;
+}
+.bing{
+    margin-right: 10%;
+    margin-top: 9%;
+    text-align: center;
+}
+.big{
+    font-size: 40px;
+}
+.show{
+    font-size: 35px;
+}
+.list{
+    text-align: center;
+    font-size: 25px;
+}
+.sas{
+    text-align: center;
+}
+.ciso{
+    padding: 2%;
+}
+.cico{
+    padding: 2%;
+}
+.lastpart{
+    text-align: center;
+}
+.last{
+    text-align: center;
+}
